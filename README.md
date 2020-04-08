@@ -49,5 +49,7 @@ BSD-2-Clause.
 
 ## Run on docker
 docker-compose -f docker-compose.yml run --rm server create_db
+
 docker-compose -f docker-compose.yml up
+
 Then open 0.0.0.0:5000
